@@ -7,6 +7,6 @@ namespace FactoryPattern2._0
     public interface IDataAccess
     {
         public void SaveData();
-        public List<Product>LoadData();
+        public List<Product> LoadData();
     }
 }
